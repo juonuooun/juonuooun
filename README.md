@@ -1,4 +1,8 @@
 ## Hi there 👋
+### I'm Lee Juwon.
+Nice to meet You!
+I'm a freshman in art & technology at Chung-Ang University.
+- contact : 01040156581
 
 <!--
 **juonuooun/juonuooun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Interest
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234C9DD3&title_bg=%23555555&icon=shell.svg&icon_color=%23E9CC77&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
