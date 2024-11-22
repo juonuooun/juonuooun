@@ -1,18 +1,67 @@
-## Hi there 👋
-### I'm Lee Juwon.
+# Hello! 👋
+I'm Lee Juwon.
 ![IMG_7422](https://github.com/user-attachments/assets/d849ad8d-6fef-458a-a34f-eb4f9e8c8f66)
 
 Nice to meet You!
-I'm a freshman in art & technology at Chung-Ang University.
-- contact : 01040156581
+  I'm a freshman in art & technology at Chung-Ang University.
 
-![Email](https://img.shields.io/badge/Email-joowon010905@gmail.com-blue)
+I am a **developer** and a person with a **passion for technology**.  
+I love learning new technologies and taking on new challenges.  
+I’m currently growing through involvement in various projects.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40juonuooun-blue?style=social&logo=instagram)](https://www.instagram.com/juonuooun/)
+---
 
+## 📍 Contact Information
+
+- **Email**: ![Email](https://img.shields.io/badge/Email-joowon010905@gmail.com-blue)
+- **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-%40juonuooun-blue?style=social&logo=instagram)](https://www.instagram.com/juonuooun/)
+
+---
+
+## 🎶 Favorite Song
 #### I love listening to songs! I'll share a song that I listened to recently
 
-[![Now Playing](https://img.shields.io/badge/Now_Playing-Emma%20Wahlin-%20Make%20A%20Move-blue)](https://open.spotify.com/track/4D9QMZ3n8OupOPdxU0MMBS?si=7a7b3c3645c140f0)
 
-I hope you became interested in me!
+*listening: Make A Move - Emma Wahlin*  
+[Listen on Spotify](https://https://open.spotify.com/track/4D9QMZ3n8OupOPdxU0MMBS?si=9b18df72d5da4116)
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **Programming Languages**: Python, C++
+- **Version Control**: GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 🌱 What I’m Currently Learning
+
+- Studying **Machine Learning** and **AI**
+- Gaining hands-on experience with **Cloud Computing** and **AWS**
+
+---
+
+## 😄 About Me
+
+I am someone who loves coding. I always enjoy taking on **new challenges** and value **teamwork**.  
+My journey as a developer is ongoing, and I get immense joy from **problem-solving** and **coding**.
+
+Currently, I work as a **Full Stack Developer**, handling both **frontend** and **backend** technologies, and I’m involved in various projects.
+
+---
+
+## 🎯 My Goals
+
+- Start writing a **tech blog**
+- Contribute to **open source projects**
+- Expand into **Data Science** and **AI** fields
+
+- I hope you became interested in me!
 ## Bye~~
+
