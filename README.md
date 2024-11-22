@@ -18,6 +18,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234C9DD3&title_bg=%23555555&icon=shell.svg&icon_color=%23E9CC77&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40juonuooun-blue?style=social&logo=instagram)](https://www.instagram.com/juonuooun/)
+
+https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0?si=a4bded18b7b24202
+# 제가 즐겨 듣는 음악 🎵
+
+[🎧 Listen to my favorite track on Spotify](https://open.spotify.com/track/https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0?si=a4bded18b7b24202)
+
+[🎶 Listen to my favorite album on Spotify](https://open.spotify.com/album/your_album_id)
+
+[📻 Listen to my playlist on Spotify](https://open.spotify.com/playlist/your_playlist_id)
+
+
+[![Spotify](https://img.shields.io/badge/Spotify-Listening%20Now-green?style=social&logo=spotify)](https://open.spotify.com/track/https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0?si=a4bded18b7b24202)
+
 
 
