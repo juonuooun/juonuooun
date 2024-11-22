@@ -25,7 +25,7 @@ I’m currently growing through involvement in various projects.
 
 <img width="520" alt="스크린샷 2024-11-22 오후 9 31 43" src="https://github.com/user-attachments/assets/552ab77f-b854-4c92-9933-a46fce0f8916">
 
-[Listen on Spotify](https://https://open.spotify.com/track/4D9QMZ3n8OupOPdxU0MMBS?si=9b18df72d5da4116)
+[Listen on Spotify](https://open.spotify.com/track/4D9QMZ3n8OupOPdxU0MMBS?si=9b18df72d5da4116)
 
 ---
 
