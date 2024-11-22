@@ -17,7 +17,7 @@ I’m currently growing through involvement in various projects.
 
 ---
 
-## 🎶 Favorite Song
+## 🎶 Song
 #### I love listening to songs! I'll share a song that I listened to recently
 
 
