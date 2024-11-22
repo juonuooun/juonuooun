@@ -3,15 +3,14 @@ I'm Lee Juwon.
 ![IMG_7422](https://github.com/user-attachments/assets/d849ad8d-6fef-458a-a34f-eb4f9e8c8f66)
 
 Nice to meet You!
-  I'm a freshman in art & technology at Chung-Ang University.
+  I'm a freshman in **art & technology** at Chung-Ang University.
 
-I am a **developer** and a person with a **passion for technology**.  
 I love learning new technologies and taking on new challenges.  
 I’m currently growing through involvement in various projects.
 
 ---
 
-## 📍 Contact Information
+## 📍 Contact Me
 
 - **Email**: ![Email](https://img.shields.io/badge/Email-joowon010905@gmail.com-blue)
 - **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-%40juonuooun-blue?style=social&logo=instagram)](https://www.instagram.com/juonuooun/)
@@ -52,19 +51,10 @@ I’m currently growing through involvement in various projects.
 
 ## 😄 About Me
 
-I am someone who loves coding. I always enjoy taking on **new challenges** and value **teamwork**.  
-My journey as a developer is ongoing, and I get immense joy from **problem-solving** and **coding**.
+I am learning a lot and meeting new people through my college life.
 
-Currently, I work as a **Full Stack Developer**, handling both **frontend** and **backend** technologies, and I’m involved in various projects.
+My hobbies are **listening to music** and **watching movies**, and I want to gain various experiences and grow little by little in the future.
 
 ---
-
-## 🎯 My Goals
-
-- Start writing a **tech blog**
-- Contribute to **open source projects**
-- Expand into **Data Science** and **AI** fields
-
-- I hope you became interested in me!
-## Bye~~
-
+I hope you became interested in me!
+### Bye~~
