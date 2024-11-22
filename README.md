@@ -12,7 +12,7 @@ I'm a freshman in art & technology at Chung-Ang University.
 
 #### I love listening to songs! I'll share a song that I listened to recently
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listening%20Now-green?style=social&logo=spotify)](https://open.spotify.com/track/https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0?si=a4bded18b7b24202)
+[![Now Playing](https://img.shields.io/badge/Now_Playing-Emma%20Wahlin-%20Make%20A%20Move-blue)](https://open.spotify.com/track/4D9QMZ3n8OupOPdxU0MMBS?si=7a7b3c3645c140f0)
 
 I hope you became interested in me!
 ## Bye~~
